@@ -36,7 +36,7 @@
 }
 
 .contents {
-  height: 1080px;
+  height: 1500px;
   padding-left: 100px;
 }
 
@@ -188,4 +188,7 @@
   text-decoration: underline;
   color: #888;
   font-size: 1rem;
+}
+.warna-navbar {
+  background-color: #2eb5c0;
 }
