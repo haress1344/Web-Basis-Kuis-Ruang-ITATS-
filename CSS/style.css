@@ -192,3 +192,54 @@
 .warna-navbar {
   background-color: #2eb5c0;
 }
+
+body .font-red-hat-display {
+ font-family: 'Red Hat Display', sans-serif !important;
+}
+
+body footer {
+ background: #6e95f8;
+ padding-top: 50px;
+ padding-bottom: 70px;
+}
+
+body footer .logo {
+ font-family: 'Red Hat Display', sans-serif;
+ font-weight: 700;
+ font-size: 26px;
+ line-height: 38px;
+ color: #FAFAFD;
+}
+
+body footer .social-media {
+ margin-top: 55px;
+}
+
+body footer .copyright {
+ font-family: 'Red Hat Display', sans-serif !important;
+ font-weight: 400;
+ font-size: 16px;
+ line-height: 135%;
+ color: #FAFAFD;
+ margin-top: 20px;
+}
+
+body footer .nav-footer p {
+ font-weight: 700 !important;
+ font-family: 'Red Hat Display', sans-serif !important;
+ font-size: 20px;
+ line-height: 135%;
+ color: #FAFAFD;
+}
+
+body footer .nav-footer a {
+ font-weight: 400 !important;
+ font-family: 'Red Hat Display', sans-serif !important;
+ font-size: 20px;
+ line-height: 135%;
+ color: #FAFAFD;
+}
+
+body footer li {
+ margin-bottom: 16px;
+}
